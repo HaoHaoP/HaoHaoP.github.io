@@ -1,6 +1,8 @@
 @import url("http://fonts.useso.com/css?family=Source+Sans+Pro:400,600");
 @import url("font-awesome.min.css");
-@import url("../../webfonts/_华文行楷/stylesheet.css");
+@import url("../../webfonts/Hua_Wen_Xing_Kai/stylesheet.css");
+
+
 
 
 
@@ -98,13 +100,13 @@
 			color: #d64760;
 		}
 
-	p { font-family: "华文行楷"; }
+	p { font-family: "Hua Wen Xing Kai"; }
 	
 	h1, h2, h3, h4, h5, h6 {
-		font-family: "华文行楷";
-		font-weight: 400;
-		color: #fff;
-		letter-spacing: -0.05em;
+	font-family: "Hua Wen Xing Kai";
+	font-weight: 400;
+	color: #fff;
+	letter-spacing: -0.05em;
 	}
 
 	strong, b {
